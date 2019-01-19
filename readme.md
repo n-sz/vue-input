@@ -1,6 +1,9 @@
 # 概要
 
-vue.jsの練習用です
+vue.jsの入力フォームサンプルです
+
+# イメージ画像
+![image0](https://user-images.githubusercontent.com/34799564/51422618-e9344d80-1bf4-11e9-863a-63a167e5c265.png)
 
 # install
 
