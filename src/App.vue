@@ -33,7 +33,7 @@
 
 <script>
 export default {
-  name: 'user_name,gender,years,other_message',
+  name: 'app',
   data () {
     return {
       msg: 'Vuejs input form',
